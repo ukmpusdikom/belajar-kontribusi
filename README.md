@@ -21,8 +21,6 @@ Buka terminal lalu run git command di bawah ini:
 git clone "url yang udah dicopy"
 ```
 
-![fork](assets/image/kontribusi/gambar_4.png)
-
 Misalnya:
 ```
 git clone https://github.com/username-kamu/belajar-kontribusi.git
@@ -35,50 +33,59 @@ Setelah repositori di-clone, buka folder repositori:
 ```
 cd belajar-kontribusi
 ```
-Lalu buat branch baru menggunakan command `git checkout`:
-```
-git checkout -b <add-nama-kamu>
-```
+Lalu buat branch baru menggunakan command `git branch <nama-kamu>`:
 
 Contohnya:
 ```
-git checkout -b add-gun-gun
+git branch hafidz-masruri
 ```
 (Nama branch-nya bebas. Cuma mesti disesuaikan sama tujuan branch dibuat ya.)
 
 ## Modifikasi dan Commit
-Buka file `Contributors.md` menggunakan text editor favorit kamu. Di sini kita pakai Markdown. Tentang markdown bisa kamu baca-baca cheatsheet-nya [di sini yaa.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Buka file `pusdikom-resolusi.text` menggunakan text editor favorit kamu. Di sini kita pakai text biasa
+Nah sekarang di file `pusdikom-resolusi.text` tambahkan data resolusi materi kajian pusdikom kedepan nya: 
 
-Nah sekarang di file `Contributors.md` tambahkan data kamu di baris paling akhir ya: 
-
+Contoh : 
 ```
-[no]. [nama-kamu](url-akun-github) : [Deskripsi tentang kamu]
+[1]. Python
 
+    *** PYTHON Dasar ***
+    - Tipe Data & Variabel
+    - Percabangan & Perulangan
+    - List
+    - Method & Class
 ```
-Contohnya:
-```
-1. [Gun Gun Priatna](https://github.com/gungunpriatna) : Saya seorang web developer
 
+setelah itu masukkan data kamu di kontributor.md 
+Contoh:
+```
+1. [ackerman17](https://github.com/ackerman17) : Saya seorang web developer
 ```
 
 Sekarang run command `git status` buat lihat modifikasi apa saja yang udah kamu lakukan. 
 Selanjutnya tambahkan dengan menggunakan command `git add`:
 
 ```
-git add Contributors.md
+git add pusdikom-resolusi.txt
+git add kontributor.md
 ```
 Lalu commit modifikasi yang udah kamu buat menggunakan command: `git commit`:
 ```
-git commit -m "Add <nama-kamu> ke daftar kontributor"
+git commit -m "Add resolusi dan kontributor"
 ```
-ganti `<nama-kamu>` sama nama kamu ya.
+ganti `pesan commit` sesuai dengan kalian ya.
 
 ## Push ke GitHub
 Push dengan command `git push`:
 ```
-git push origin <add-nama-kamu>
+git push origin <nama-branch>
 ```
-ubah `<add-nama-kamu>` dengan nama branch yang udah dibuat.
+ubah `<nama-branch>` dengan nama branch yang udah dibuat.
+Contoh:
+
+```
+git push origin hafidz-masruri
+```
 
 ## Pull Request
 Kalau kamu buka repositori kamu di GitHub, kamu bisa lihat tombol `Compare & pull request` button.  Tekan tombol tersebut.
