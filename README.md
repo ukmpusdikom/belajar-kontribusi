@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # Belajar Kontribusi
-Repositori untuk belajar kontribusi open source project.
+Repositori untuk belajar kontribusi di open source project dengan contoh kontribusi ke resolusi kajian pusdikom kedepan nya.
 
 ## Fork Repositori
 Fork repositori ini dengan cara menekan tombol fork di sebelah kanan atas. 
