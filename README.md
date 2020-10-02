@@ -35,17 +35,25 @@ cd belajar-kontribusi
 ```
 Lalu buat branch baru menggunakan command `git branch <nama-kamu>`:
 
-Contohnya:
+### Contohnya:
 ```
 git branch hafidz-masruri
 ```
 (Nama branch-nya bebas. Cuma mesti disesuaikan sama tujuan branch dibuat ya.)
 
+## Checkout branch
+setelah membuat branch baru , lalu checkout ke branch tersebut supaya bisa memulai pull request ,`git checkout <nama-kamu>`
+
+### Contohnya : 
+```
+git checkout hafidz-masruri
+```
+
 ## Modifikasi dan Commit
 Buka file `pusdikom-resolusi.text` menggunakan text editor favorit kamu. Di sini kita pakai text biasa
 , Nah sekarang di file `pusdikom-resolusi.text` tambahkan data resolusi materi kajian pusdikom kedepan nya: 
 
-Contoh : 
+### Contoh : 
 ```
 [1]. Python
 
@@ -57,7 +65,8 @@ Contoh :
 ```
 
 setelah itu masukkan data kamu di kontributor.md 
-Contoh:
+
+### Contoh:
 ```
 1. [ackerman17](https://github.com/ackerman17) : Saya seorang web developer
 ```
@@ -81,8 +90,8 @@ Push dengan command `git push`:
 git push origin <nama-branch>
 ```
 ubah `<nama-branch>` dengan nama branch yang udah dibuat.
-Contoh:
 
+### Contoh:
 ```
 git push origin hafidz-masruri
 ```
@@ -90,8 +99,10 @@ git push origin hafidz-masruri
 ## Pull Request
 Kalau kamu buka repositori kamu di GitHub, kamu bisa lihat tombol `Compare & pull request` button.  Tekan tombol tersebut.
 
-![fork](assets/image/kontribusi/gambar_5.png)
+![fork](assets/image/kontribusi/gambar_4.png)
 
 Nah selanjutnya tekan tombol Create pull request.
 
-![fork](assets/image/kontribusi/gambar_6.png)
+![fork](assets/image/kontribusi/gambar_5.png)
+
+# Selesai .... Semoga Bermanfaat
