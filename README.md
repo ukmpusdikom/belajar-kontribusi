@@ -5,7 +5,7 @@
 Repositori untuk belajar kontribusi open source project.
 
 ## Fork Repositori
-Fork repositori ini dengan cara menekan tombol fork di sebelah kan atas. 
+Fork repositori ini dengan cara menekan tombol fork di sebelah kanan atas. 
 
 ![fork](assets/image/kontribusi/gambar_1.png)
 
