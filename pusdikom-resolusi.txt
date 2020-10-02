@@ -1,0 +1,45 @@
+RENCANA MATERI PUSDIKOM
+
+
+1.PYTHON PROGAMMING
+
+    *** PYTHON Dasar ***
+    - Tipe Data & Variabel
+    - Percabangan & Perulangan
+    - List
+    - Method & Class
+
+    *** PYTHON Menengah ***
+
+    *** PYTHON Lanjutan ***
+    
+
+2.WEB PROGAMMING
+    
+    *** WEB Dasar ***
+    - HTML
+    - CSS
+    - Javascript
+
+    *** WEB Menengah ***
+    - Javascript ES6
+    - PHP Dasar
+    - OOP
+    - MVC
+
+    *** WEB Lanjutan ***
+    - PHP Framework (CodeIgniter,Laravel)
+    - Javascript Framework Front-End (React,Vue,Angular,Svelte)
+    - Javascript Framework Back-End (NodeJS, Express)
+    
+
+3.MOBILE PROGAMMING
+
+
+    *** MOBILE Dasar ***
+    
+
+    *** MOBILE Menengah ***
+ 
+
+    *** MOBILE Lanjutan ***
