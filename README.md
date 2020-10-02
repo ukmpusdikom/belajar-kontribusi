@@ -43,7 +43,7 @@ git branch hafidz-masruri
 
 ## Modifikasi dan Commit
 Buka file `pusdikom-resolusi.text` menggunakan text editor favorit kamu. Di sini kita pakai text biasa
-Nah sekarang di file `pusdikom-resolusi.text` tambahkan data resolusi materi kajian pusdikom kedepan nya: 
+, Nah sekarang di file `pusdikom-resolusi.text` tambahkan data resolusi materi kajian pusdikom kedepan nya: 
 
 Contoh : 
 ```
@@ -73,7 +73,7 @@ Lalu commit modifikasi yang udah kamu buat menggunakan command: `git commit`:
 ```
 git commit -m "Add resolusi dan kontributor"
 ```
-ganti `pesan commit` sesuai dengan kalian ya.
+ganti `pesan commit` sesuai dengan keinginan kalian ya.
 
 ## Push ke GitHub
 Push dengan command `git push`:
