@@ -1,108 +1,46 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+<div align="center">
+<p>
+  <a href="https://github.com/UKM-PUSDIKOM">
+    <img src="/assets/image/pendukung/logo-pusdikom.png" alt="Pusdikom" width="300"/>
+  </a>
+</p>
 
-# Belajar Kontribusi
-Repositori untuk belajar kontribusi di open source project dengan contoh kontribusi ke resolusi kajian pusdikom kedepan nya.
+<h1>Pusat Study Komputer 🥇</h1>
+<br>
 
-## Fork Repositori
-Fork repositori ini dengan cara menekan tombol fork di sebelah kanan atas. 
+<p align="center">
+  <img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  <img alt="github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+    <img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/>
+</p>
+<br />
+</div>
 
-![fork](assets/image/kontribusi/gambar_1.png)
+## Hal yang perlu di perhatikan 🚀
 
-## Clone repositori hasil fork
-Selanjutnya, clone repo hasil fork yang ada di akun kamu ke komputer local. Tekan tombol code, lalu tekan icon *copy to clipboard* .
+- folder `assets` : berisi berbagai tools pendukung, seperti _image_, _font_, _Etc._
+- folder `materi` : di folder ini nanti nya tempat _directory_ penyimpanan materi pembelajaran.
 
-![fork](assets/image/kontribusi/gambar_2.png)
+<br>
 
-![fork](assets/image/kontribusi/gambar_3.png)
+#### Mau berkontribusi di project opensource ini ?
 
-Buka terminal lalu run git command di bawah ini:
-```
-git clone "url yang udah dicopy"
-```
+Silahkan bisa mengunjungi `directory` : `materi/opensource/howtocontribute.md`
 
-Misalnya:
-```
-git clone https://github.com/username-kamu/belajar-kontribusi.git
-```
-di mana `username-kamu` diisi sama username akun GitHub kamu.
+<br>
 
-## Buat branch baru
-Setelah repositori di-clone, buka folder repositori:
+<div align="center">
+    <img src="/assets/image/pendukung/contribute.png" alt="UKM Pusdikom"/>
+</div>
+<table>
+<tr>
+<td align="center"><a href="https://github.com/ackerman17"><img src="https://avatars2.githubusercontent.com/u/36196578?s=460&u=e02743c59ba068085f6e46496c069bc15caadfe7&v=4" width="100px;" alt=""/><br /><sub><b>Mohamad Hafid Masruri</b></sub></a></td>
+<td align="center"><a href="https://github.com/zaiinhs"><img src="https://avatars0.githubusercontent.com/u/53314006?s=460&u=1484a2919a8d932f22047be1db3999c373406430&v=4" width="100px;" alt=""/><br /><sub><b>Zainal Abidin</b></sub></a></td>
+</tr>
+</table>
 
-```
-cd belajar-kontribusi
-```
-Lalu buat branch baru menggunakan command `git branch <nama-kamu>`:
-
-### Contohnya:
-```
-git branch hafidz-masruri
-```
-(Nama branch-nya bebas. Cuma mesti disesuaikan sama tujuan branch dibuat ya.)
-
-## Checkout branch
-setelah membuat branch baru , lalu checkout ke branch tersebut supaya bisa memulai pull request ,`git checkout <nama-kamu>`
-
-### Contohnya : 
-```
-git checkout hafidz-masruri
-```
-
-## Modifikasi dan Commit
-Buka file `pusdikom-resolusi.text` menggunakan text editor favorit kamu. Di sini kita pakai text biasa
-, Nah sekarang di file `pusdikom-resolusi.text` tambahkan data resolusi materi kajian pusdikom kedepan nya: 
-
-### Contoh : 
-```
-[1]. Python
-
-    *** PYTHON Dasar ***
-    - Tipe Data & Variabel
-    - Percabangan & Perulangan
-    - List
-    - Method & Class
-```
-
-setelah itu masukkan data kamu di kontributor.md 
-
-### Contoh:
-```
-1. [ackerman17](https://github.com/ackerman17) : Saya seorang web developer
-```
-
-Sekarang run command `git status` buat lihat modifikasi apa saja yang udah kamu lakukan. 
-Selanjutnya tambahkan dengan menggunakan command `git add`:
-
-```
-git add pusdikom-resolusi.txt
-git add kontributor.md
-```
-Lalu commit modifikasi yang udah kamu buat menggunakan command: `git commit`:
-```
-git commit -m "Add resolusi dan kontributor"
-```
-ganti `pesan commit` sesuai dengan keinginan kalian ya.
-
-## Push ke GitHub
-Push dengan command `git push`:
-```
-git push origin <nama-branch>
-```
-ubah `<nama-branch>` dengan nama branch yang udah dibuat.
-
-### Contoh:
-```
-git push origin hafidz-masruri
-```
-
-## Pull Request
-Kalau kamu buka repositori kamu di GitHub, kamu bisa lihat tombol `Compare & pull request` button.  Tekan tombol tersebut.
-
-![fork](assets/image/kontribusi/gambar_4.png)
-
-Nah selanjutnya tekan tombol Create pull request.
-
-![fork](assets/image/kontribusi/gambar_5.png)
-
-# Selesai .... Semoga Bermanfaat
+<br>
+<p align="center">Copyright© 2020 <b>@ukmpusdikom.</b></p>
