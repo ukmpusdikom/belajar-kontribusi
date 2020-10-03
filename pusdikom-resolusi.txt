@@ -10,9 +10,10 @@ RENCANA MATERI PUSDIKOM
     - Method & Class
 
     *** PYTHON Menengah ***
+    - Python OOP
 
     *** PYTHON Lanjutan ***
-    
+    - Python Django    
 
 2.WEB PROGAMMING
     
