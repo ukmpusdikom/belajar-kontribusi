@@ -9,8 +9,8 @@
 <br>
 
 <p align="center">
-  <a href="https://www.facebook.com/PUSDIKOM-212101002263078/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/ukmpusdikom/" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/PUSDIKOM-212101002263078" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ukmpusdikom" target="_blank"><img alt="instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://twitter.com/ukmpusdikom" target="_blank"><img alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://github.com/ukmpusdikom" target="_blank"><img alt="github" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UC1iLIqpAmymPUKlyERIlpMg" target="_blank"><img alt="youtube" src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
