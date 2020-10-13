@@ -39,6 +39,7 @@ Silahkan bisa mengunjungi `directory` : `materi/opensource/howtocontribute.md`
 <tr>
 <td align="center"><a href="https://github.com/ackerman17"><img src="https://avatars2.githubusercontent.com/u/36196578?s=460&u=e02743c59ba068085f6e46496c069bc15caadfe7&v=4" width="100px;" alt=""/><br /><sub><b>Mohamad Hafid Masruri</b></sub></a></td>
 <td align="center"><a href="https://github.com/zaiinhs"><img src="https://avatars0.githubusercontent.com/u/53314006?s=460&u=1484a2919a8d932f22047be1db3999c373406430&v=4" width="100px;" alt=""/><br /><sub><b>Zainal Abidin</b></sub></a></td>
+<td align="center"><a href="https://github.com/rrma1710"><img src="https://avatars2.githubusercontent.com/u/57118028?s=460&u=8e68d3b62eb3198df8f3abec76a335b7d276fd19&v=4" width="100px;" alt=""/><br /><sub><b>R. Rojab Maulana Akbar</b></sub></a></td>
 </tr>
 </table>
 
